@@ -6,7 +6,7 @@
  * @version 1.2.0
  */
 
-namespace kartik\sortable;
+namespace rsgrey\sortable;
 
 /**
  * Sortable bundle for \kartik\sortable\Sortable
