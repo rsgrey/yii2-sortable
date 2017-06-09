@@ -6,7 +6,7 @@
  * @version 1.2.0
  */
 
-namespace kartik\sortable;
+namespace rsgrey\sortable;
 
 use yii\helpers\Html;
 use yii\helpers\ArrayHelper;
